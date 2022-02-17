@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Counter app</string>
+    <string name="main_activity_label">Counter app</string>
+    <string name="second_activity_label">Square</string>
+    <string name="second_activity_button">Don\'t click</string>
+    <string name="rotate_label">Rotate me!</string>
+    <string name="i_warned_you_about_this">I warned you about this…</string>
+</resources>
